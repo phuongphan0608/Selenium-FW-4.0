@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jpetstore.tests.MySecondTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.007 s - in com.jpetstore.tests.MySecondTest

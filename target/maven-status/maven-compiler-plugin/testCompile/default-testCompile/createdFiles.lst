@@ -1,0 +1,9 @@
+com/jpetstore/tests/LoginDataDrivenTest.class
+com/jpetstore/tests/MySecondTest.class
+com/jpetstore/tests/LoginTest.class
+com/jpetstore/tests/LoginTest$negativeTestLogin.class
+com/jpetstore/tests/RegistrationTest.class
+com/jpetstore/tests/MyFirstTest.class
+com/jpetstore/tests/TestBase.class
+com/jpetstore/tests/TestListener.class
+com/jpetstore/tests/RegistrationParameterizedTest.class

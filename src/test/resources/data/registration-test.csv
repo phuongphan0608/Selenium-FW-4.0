@@ -1,0 +1,7 @@
+userId,password,repeatedPassword,firstName,lastName,email,phone,addr1,addr2,city,state,zip,country,language,favCategory,enableMyList,enableMybanner
+test123,tess123,tess123,TestTess,123,testtess123@gmail.com,123456,ABC,DEF,CCITY,STTATE,70000,CCOUNTRY,english,FISH,true,true
+test12344,tess1234,tess1234,TestTess,1234,testtess1234@gmail.com,1234456,ABC,DEF,CCITY,STTATE,70000,CCOUNTRY,english,FISH,true,true
+test12345,tess12345,tess12345,TestTess,12345,testtess12345@gmail.com,12345456,ABC,DEF,CCITY,STTATE,70000,CCOUNTRY,english,FISH,true,true
+test123456,tess123456,tess123456,TestTess,123456,testtess123456@gmail.com,123456456,ABC,DEF,CCITY,STTATE,70000,CCOUNTRY,english,FISH,true,true
+test1234567,tess1234567,tess1234567,TestTess,1234567,testtess1234567@gmail.com,1234567456,ABC,DEF,CCITY,STTATE,70000,CCOUNTRY,english,FISH,true,true
+test12345678,tess12345678,tess12345678,TestTess,12345678,testtess12345678@gmail.com,12345678456,ABC,DEF,CCITY,STTATE,70000,CCOUNTRY,english,FISH,true,true
