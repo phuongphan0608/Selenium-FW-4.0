@@ -14,7 +14,7 @@ import static com.jpetstore.util.PropKey.URL;
 @DisplayNameGeneration(DisplayNameGenerator.Standard.class)
 
 public class MyFirstTest extends DriverManager{
-    @Tag(SMOKE)
+//     @Tag(SMOKE)
     @Test
     @DisplayName("This is my first selenium test !!!")
     void this_is_my_first_selenium_test() throws InterruptedException, IOException {
