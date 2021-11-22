@@ -22,7 +22,7 @@ public class LoginTest extends JPetStoreSteps {
     }
 
     @RepeatedIfExceptionsTest(repeats = 3)
-    @Tag(SMOKE)
+//     @Tag(SMOKE)
     @Test
     @DisplayName("As a valid user, a user must be able to login with valid username and password.")
     @Description("Logging into the app via sign on page")
